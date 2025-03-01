@@ -137,8 +137,6 @@ input::placeholder {
   display: none;
 }
 
-/* для того чтобы, после ввода данных
-в инпуте цвет плейсхолдера - был белый */
 input:-webkit-autofill,
 input:-webkit-autofill:hover,
 input:-webkit-autofill:focus {
